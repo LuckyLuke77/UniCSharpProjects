@@ -1,0 +1,20 @@
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad\bin\Debug\CrossyRoad.exe.config
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad\bin\Debug\CrossyRoad.exe
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad\bin\Debug\CrossyRoad.pdb
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad\obj\Debug\CrossyRoad.csprojAssemblyReference.cache
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad\obj\Debug\CrossyRoad.Properties.Resources.resources
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad\obj\Debug\CrossyRoad.csproj.GenerateResource.cache
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad\obj\Debug\CrossyRoad.csproj.CoreCompileInputs.cache
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad\obj\Debug\CrossyRoad.exe
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad\obj\Debug\CrossyRoad.pdb
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad\obj\Debug\CrossyRoad.Form1.resources
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad try 2\bin\Debug\CrossyRoad.exe.config
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad try 2\bin\Debug\CrossyRoad.exe
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad try 2\bin\Debug\CrossyRoad.pdb
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad try 2\obj\Debug\CrossyRoad.csprojAssemblyReference.cache
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad try 2\obj\Debug\CrossyRoad.Form1.resources
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad try 2\obj\Debug\CrossyRoad.Properties.Resources.resources
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad try 2\obj\Debug\CrossyRoad.csproj.GenerateResource.cache
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad try 2\obj\Debug\CrossyRoad.csproj.CoreCompileInputs.cache
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad try 2\obj\Debug\CrossyRoad.exe
+E:\all\Uni\Lessons\3 sem\c#\CrossyRoad try 2\obj\Debug\CrossyRoad.pdb
