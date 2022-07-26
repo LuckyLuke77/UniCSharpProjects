@@ -1,0 +1,10 @@
+E:\all\Uni\Lessons\3 sem\c#\SoloEx2\bin\Debug\SoloEx2.exe.config
+E:\all\Uni\Lessons\3 sem\c#\SoloEx2\bin\Debug\SoloEx2.exe
+E:\all\Uni\Lessons\3 sem\c#\SoloEx2\bin\Debug\SoloEx2.pdb
+E:\all\Uni\Lessons\3 sem\c#\SoloEx2\obj\Debug\SoloEx2.csprojAssemblyReference.cache
+E:\all\Uni\Lessons\3 sem\c#\SoloEx2\obj\Debug\SoloEx2.Form1.resources
+E:\all\Uni\Lessons\3 sem\c#\SoloEx2\obj\Debug\SoloEx2.Properties.Resources.resources
+E:\all\Uni\Lessons\3 sem\c#\SoloEx2\obj\Debug\SoloEx2.csproj.GenerateResource.cache
+E:\all\Uni\Lessons\3 sem\c#\SoloEx2\obj\Debug\SoloEx2.csproj.CoreCompileInputs.cache
+E:\all\Uni\Lessons\3 sem\c#\SoloEx2\obj\Debug\SoloEx2.exe
+E:\all\Uni\Lessons\3 sem\c#\SoloEx2\obj\Debug\SoloEx2.pdb
