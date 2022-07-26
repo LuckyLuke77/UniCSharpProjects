@@ -1,0 +1,59 @@
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship\bin\Debug\battleship.exe.config
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship\bin\Debug\battleship.exe
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship\bin\Debug\battleship.pdb
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship\obj\Debug\battleship.csprojAssemblyReference.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship\obj\Debug\battleship.Form1.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship\obj\Debug\battleship.Properties.Resources.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship\obj\Debug\battleship.csproj.GenerateResource.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship\obj\Debug\battleship.csproj.CoreCompileInputs.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship\obj\Debug\battleship.exe
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship\obj\Debug\battleship.pdb
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship (2)\battleship\bin\Debug\battleship.exe.config
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship (2)\battleship\bin\Debug\battleship.exe
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship (2)\battleship\bin\Debug\battleship.pdb
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship (2)\battleship\obj\Debug\battleship.csproj.AssemblyReference.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship (2)\battleship\obj\Debug\battleship.Form1.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship (2)\battleship\obj\Debug\battleship.Properties.Resources.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship (2)\battleship\obj\Debug\battleship.csproj.GenerateResource.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship (2)\battleship\obj\Debug\battleship.csproj.CoreCompileInputs.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship (2)\battleship\obj\Debug\battleship.exe
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship (2)\battleship\obj\Debug\battleship.pdb
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\bin\Debug\Database1.mdf
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\bin\Debug\Database1_log.ldf
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\bin\Debug\battleship.exe.config
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\bin\Debug\battleship.exe
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\bin\Debug\battleship.pdb
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\obj\Debug\battleship.csproj.AssemblyReference.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\obj\Debug\battleship.Form1.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\obj\Debug\battleship.Form2.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\obj\Debug\battleship.Properties.Resources.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\obj\Debug\battleship.csproj.GenerateResource.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\obj\Debug\battleship.csproj.CoreCompileInputs.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\obj\Debug\battleship.exe
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship\battleship\obj\Debug\battleship.pdb
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\bin\Debug\Database1.mdf
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\bin\Debug\Database1_log.ldf
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\bin\Debug\battleship.exe.config
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\bin\Debug\battleship.exe
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\bin\Debug\battleship.pdb
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\obj\Debug\battleship.csproj.AssemblyReference.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\obj\Debug\battleship.Form1.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\obj\Debug\battleship.Form2.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\obj\Debug\battleship.Properties.Resources.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\obj\Debug\battleship.csproj.GenerateResource.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\obj\Debug\battleship.csproj.CoreCompileInputs.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\obj\Debug\battleship.exe
+E:\all\Uni\Lessons\3 sem\c#\final ex\working ones\battleship final\battleship\obj\Debug\battleship.pdb
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\bin\Debug\Database1.mdf
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\bin\Debug\Database1_log.ldf
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\bin\Debug\battleship.exe.config
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\bin\Debug\battleship.exe
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\bin\Debug\battleship.pdb
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\obj\Debug\battleship.csproj.AssemblyReference.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\obj\Debug\battleship.Form1.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\obj\Debug\battleship.Form2.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\obj\Debug\battleship.Properties.Resources.resources
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\obj\Debug\battleship.csproj.GenerateResource.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\obj\Debug\battleship.csproj.CoreCompileInputs.cache
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\obj\Debug\battleship.exe
+E:\all\Uni\Lessons\3 sem\c#\final ex\battleship final\battleship\obj\Debug\battleship.pdb
